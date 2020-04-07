@@ -1,0 +1,203 @@
+
+----------------------
+Current time is 0
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )( 3 , 4 , 4 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 1
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )( 3 , 4 , 4 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 2
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )( 3 , 4 , 4 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 3
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )( 3 , 4 , 4 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 4
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :( 3 , 4 , 4 )
+Server 1 has :
+
+----------------------
+Current time is 5
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :( 3 , 4 , 3 )
+Server 1 has :
+
+----------------------
+Current time is 6
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :( 3 , 4 , 2 )
+Server 1 has :
+
+----------------------
+Current time is 7
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :( 3 , 4 , 1 )
+Server 1 has :
+
+----------------------
+Current time is 8
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 9
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 10
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 11
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )( 2 , 12 , 2 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 12
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :( 2 , 12 , 2 )
+Server 1 has :
+
+----------------------
+Current time is 13
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :( 2 , 12 , 1 )
+Server 1 has :
+
+----------------------
+Current time is 14
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 15
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 16
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 17
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 18
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 19
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 20
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 21
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 22
+Waiting Clients :( 0 , 23 , 5 )( 1 , 27 , 5 )
+Server 0 has :
+Server 1 has :
+
+----------------------
+Current time is 23
+Waiting Clients :( 1 , 27 , 5 )
+Server 0 has :( 0 , 23 , 5 )
+Server 1 has :
+
+----------------------
+Current time is 24
+Waiting Clients :( 1 , 27 , 5 )
+Server 0 has :( 0 , 23 , 4 )
+Server 1 has :
+
+----------------------
+Current time is 25
+Waiting Clients :( 1 , 27 , 5 )
+Server 0 has :( 0 , 23 , 3 )
+Server 1 has :
+
+----------------------
+Current time is 26
+Waiting Clients :( 1 , 27 , 5 )
+Server 0 has :( 0 , 23 , 2 )
+Server 1 has :
+
+----------------------
+Current time is 27
+Waiting Clients :
+Server 0 has :( 0 , 23 , 1 )
+Server 1 has :( 1 , 27 , 5 )
+
+----------------------
+Current time is 28
+Waiting Clients :
+Server 0 has :
+Server 1 has :( 1 , 27 , 4 )
+
+----------------------
+Current time is 29
+Waiting Clients :
+Server 0 has :
+Server 1 has :( 1 , 27 , 3 )
+
+----------------------
+Current time is 30
+Waiting Clients :
+Server 0 has :
+Server 1 has :( 1 , 27 , 2 )
+
+----------------------
+Current time is 31
+Waiting Clients :
+Server 0 has :
+Server 1 has :( 1 , 27 , 1 )
+
+----------------------
+Current time is 32
+Waiting Clients :
+Server 0 has :
+Server 1 has :
+ 
+The program will finish
+Server with nr 0 had the waiting time of 11
+Server with nr 1 had the waiting time of 5
+Average waiting time : 8

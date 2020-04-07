@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="QueueSimulator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44960d30-64fe-45e3-953b-f1719c319962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZUUq6g9szSe9PKCQhz1JIPFWA8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Application.SimulationManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="QueueSimulator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulationManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SimulationManager" />
+      <module name="QueueSimulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SimulationManager" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimulationManager" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44960d30-64fe-45e3-953b-f1719c319962" name="Default Changelist" comment="" />
+      <created>1584893353422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584893353422</updated>
+      <workItem from="1584893361362" duration="61038000" />
+      <workItem from="1585345825639" duration="39147000" />
+      <workItem from="1585861982818" duration="740000" />
+      <workItem from="1585919842470" duration="1119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1585138620305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585138620305" />
+    <state x="391" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585326158005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="391" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585326158005" />
+    <state x="438" y="226" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585325246871">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="226" width="404" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585325246870" />
+    <state x="399" y="212" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584894402914">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="212" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1584894402914" />
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1586082321006">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="84" key="FileChooserDialogImpl/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1586082321006" />
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1585670602965">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.bottom/-1920.0.1280.680/0.0.1280.680@-1920.0.1280.680" timestamp="1585670602965" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="326" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585297626131" />
+    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1585670602965">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.center/-1920.0.1280.680/0.0.1280.680@-1920.0.1280.680" timestamp="1585670602965" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="326" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585297626131" />
+    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1585670602965">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.left/-1920.0.1280.680/0.0.1280.680@-1920.0.1280.680" timestamp="1585670602965" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="326" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585297626130" />
+    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1585670602965">
+      <screen x="-1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="523" key="GridCell.Tab.0.right/-1920.0.1280.680/0.0.1280.680@-1920.0.1280.680" timestamp="1585670602965" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="326" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585297626131" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585328458569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="370" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585296905898" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585328458569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="370" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585296905897" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585328458569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="370" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585296905897" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585328458569">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585328458569" />
+    <state width="1237" height="370" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585296905898" />
+    <state x="321" y="46" key="NewModule_or_Project.wizard" timestamp="1586082336999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="46" key="NewModule_or_Project.wizard/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1586082336999" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585740016128">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585740016128" />
+    <state x="372" y="93" width="540" height="524" key="StructurePopup" timestamp="1585919883570">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1548" y="93" width="540" height="524" key="StructurePopup/-1920.0.1280.680/0.0.1280.680@-1920.0.1280.680" timestamp="1585852227712" />
+    <state x="372" y="93" width="540" height="524" key="StructurePopup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585919883570" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1585919842379">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585919842379" />
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585156319942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1585156319942" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584896482615">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1584896482615" />
+    <state x="91" y="0" key="new project wizard" timestamp="1586082182471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1586082182471" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1584895873754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1584895873754" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1585296380483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/-1920.0.1280.680/0.0.1280.680@0.0.1280.680" timestamp="1584899382115" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585296380483" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QueueSimulator$SimulationManager.ic" NAME="SimulationManager Coverage Results" MODIFIED="1584903530822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
